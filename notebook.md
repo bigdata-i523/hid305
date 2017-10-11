@@ -19,7 +19,8 @@
 * 09/12/2017  - Successfully completed first excersize with Raspberry PI: turning on/off a led using python.
 * 09/17/2017  - 09/23/17 Worked on python excersizes and put together the robot car chasis.
 * 09/27/2017  - Started working on putting together the code for the raspberry car. 
-* 10/02/2017  - Installed cloudmesh on my Raspberry Pi. REady to start testing.
+* 10/02/2017  - Installed cloudmesh on my Raspberry Pi. Ready to start testing.
+* 10/09/2017  - starting to create a virtual environment to experiment with Hadoop to create a cluster and understand Hadoop better before attempting to follow the instrucitons on "Cloudmesh Cluster Installation".
 
 # Writing
 
@@ -32,6 +33,8 @@
 * 09/24/2017  - Started working on Paper 2 and uploaded bib and tex files to github 
 * 09/27/2017  - Uploaded upgraded bib and tex files for paper 1 to github.
 * 10/02/2017  - Will receive the rest of what my partner is working on and start our reviewing process for Paper 1
+* 10/09/2017  - Turned in Paper 1, and decided to do Paper 2 with Uma Kugan.
+* 10/10/2017  - Started collecting information for paper 2.
 
 # Meetings
 
@@ -39,6 +42,8 @@
 * 09/18/2017  - Meeting: Attended class meeting for online students
 * 09/25/2017  - Meeting: Attended class meeting for online students learned the difference between "" and'' '' in LaTex
 * 10/02/2017  - Meeting: Attended class meeting for online students. Learned about the YAML readme Parser project.
+* 10/09/2017  - Meeting: Attended class meeting for online students. It was a short meeting led by a TA.
+
 
 # Location
 
