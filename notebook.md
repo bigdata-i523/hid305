@@ -8,6 +8,7 @@
 * 09/17/2017 - 09/23/17 will Finish "Overview of data science".
 * 09/27/2017 - Finished  "Overview of data science" -took a little longer than expected-.
 * 09/29/2017 - 10/06/17 will Finish "Big Data Use Cases Survey".
+* 10/06/2017 - Finishing "Big Data Use Cases Survey".Took longere than expected again.
 
 # Practice
 
@@ -21,6 +22,7 @@
 * 09/27/2017  - Started working on putting together the code for the raspberry car. 
 * 10/02/2017  - Installed cloudmesh on my Raspberry Pi. Ready to start testing.
 * 10/09/2017  - starting to create a virtual environment to experiment with Hadoop to create a cluster and understand Hadoop better before attempting to follow the instrucitons on "Cloudmesh Cluster Installation".
+* 10/09/2017  - Started trying to create a Hadoop cluster with 3 rapberry pi's
 
 # Writing
 
@@ -35,6 +37,7 @@
 * 10/02/2017  - Will receive the rest of what my partner is working on and start our reviewing process for Paper 1
 * 10/09/2017  - Turned in Paper 1, and decided to do Paper 2 with Uma Kugan.
 * 10/10/2017  - Started collecting information for paper 2.
+* 10/10/2017  - Started adding found information for paper 2 to a latex document.
 
 # Meetings
 
