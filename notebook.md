@@ -22,7 +22,7 @@
 * 09/27/2017  - Started working on putting together the code for the raspberry car. 
 * 10/02/2017  - Installed cloudmesh on my Raspberry Pi. Ready to start testing.
 * 10/09/2017  - starting to create a virtual environment to experiment with Hadoop to create a cluster and understand Hadoop better before attempting to follow the instrucitons on "Cloudmesh Cluster Installation".
-* 10/09/2017  - Started trying to create a Hadoop cluster with 3 rapberry pi's
+* 10/09/2017  - Started trying to create a Hadoop cluster with 3 rapberry pi's -using https://developer.ibm.com/recipes/tutorials/building-a-hadoop-cluster-with-raspberry-pi/-
 
 # Writing
 
