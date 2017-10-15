@@ -4,13 +4,12 @@ owner:
     name: Andres Castro Benavides
     url: https://github.com/bigdata-i523/hid305
 paper1:
-    abstract: 'As waste management becomes a greater concern for cities and municipalities
+    abstract: >
+        As waste management becomes a greater concern for cities and municipalities
         around the world, big data analysis has the potential to not only help assess
         the current waste management strategies, but also provide information that
         can be used to optimize the systems used in various institutions, local government,
         companies, etc.
-
-        '
     author:
         - Andres Castro Benavides
         - Mani Kumar Kagita
@@ -23,7 +22,8 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid305/paper1/report.pdf
 paper2:
-    abstract: Developing city planning and zoning policies has a large impact on natural
+    abstract: >
+        Developing city planning and zoning policies has a large impact on natural
         resources management and socio economic indicators. To make informed decisions,
         the local governments require to use important amounts of data to make informed
         decisions. This paper explores the possibilities for zoning and city planning
