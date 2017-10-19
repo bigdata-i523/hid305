@@ -23,6 +23,7 @@
 * 10/02/2017  - Installed cloudmesh on my Raspberry Pi. Ready to start testing.
 * 10/09/2017  - starting to create a virtual environment to experiment with Hadoop to create a cluster and understand Hadoop better before attempting to follow the instrucitons on "Cloudmesh Cluster Installation".
 * 10/09/2017  - Started trying to create a Hadoop cluster with 3 rapberry pi's -using https://developer.ibm.com/recipes/tutorials/building-a-hadoop-cluster-with-raspberry-pi/-
+* 10/09/2017  - 10/09/2017  - Still working on the Hadoop Cluster.
 
 # Writing
 
@@ -38,6 +39,7 @@
 * 10/09/2017  - Turned in Paper 1, and decided to do Paper 2 with Uma Kugan.
 * 10/10/2017  - Started collecting information for paper 2.
 * 10/10/2017  - Started adding found information for paper 2 to a latex document.
+* 10/15/2017  - Assesed options for final project.
 
 # Meetings
 
