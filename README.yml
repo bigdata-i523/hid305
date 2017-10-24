@@ -18,9 +18,9 @@ paper1:
         - 305
         - 319
     status: 100%
-    title: Big Data Analytics for Municipal Waste Management.
+    title: Big Data Analytics for Municipal Waste Management
     type: latex
-    url: https://github.com/bigdata-i523/hid305/paper1/report.pdf
+    url: https://github.com/bigdata-i523/hid305/paper1
 paper2:
     abstract: >
         Developing city planning and zoning policies has a large impact on natural
@@ -35,4 +35,4 @@ paper2:
     status: in progress
     title: Big Data applied to zoning and city planning.
     type: word
-    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf
+    url: https://github.com/bigdata-i523/sample-hid000/paper2
