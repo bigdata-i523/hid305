@@ -9,6 +9,8 @@
 * 09/27/2017 - Finished  "Overview of data science" -took a little longer than expected-.
 * 09/29/2017 - 10/06/17 will Finish "Big Data Use Cases Survey".
 * 10/06/2017 - Finishing "Big Data Use Cases Survey".Took longere than expected again.
+* 10/06/2017  - 10/27/2017  - No advances in the therory track
+
 
 # Practice
 
@@ -23,7 +25,9 @@
 * 10/02/2017  - Installed cloudmesh on my Raspberry Pi. Ready to start testing.
 * 10/09/2017  - starting to create a virtual environment to experiment with Hadoop to create a cluster and understand Hadoop better before attempting to follow the instrucitons on "Cloudmesh Cluster Installation".
 * 10/09/2017  - Started trying to create a Hadoop cluster with 3 rapberry pi's -using https://developer.ibm.com/recipes/tutorials/building-a-hadoop-cluster-with-raspberry-pi/-
-* 10/09/2017  - 10/09/2017  - Still working on the Hadoop Cluster.
+* 10/09/2017  - 10/16/2017  - Still working on the Hadoop Cluster.
+* 10/16/2017  - 10/27/2017  - No progress on the Practice track.
+* 10/28/2017  - Wiped out the Raspberry Pi's memory cards to work on the Project
 
 # Writing
 
@@ -40,15 +44,17 @@
 * 10/10/2017  - Started collecting information for paper 2.
 * 10/10/2017  - Started adding found information for paper 2 to a latex document.
 * 10/15/2017  - Assesed options for final project.
+* 10/15/2017  - Chose final project
 
 # Meetings
 
-* 09/11/2017  - Meeting: Attended class meeting for online students
-* 09/18/2017  - Meeting: Attended class meeting for online students
-* 09/25/2017  - Meeting: Attended class meeting for online students learned the difference between "" and'' '' in LaTex
+* 09/11/2017  - Meeting: Attended class meeting for online students.
+* 09/18/2017  - Meeting: Attended class meeting for online students.
+* 09/25/2017  - Meeting: Attended class meeting for online students. Learned the difference between "" and'' '' in LaTex
 * 10/02/2017  - Meeting: Attended class meeting for online students. Learned about the YAML readme Parser project.
 * 10/09/2017  - Meeting: Attended class meeting for online students. It was a short meeting led by a TA.
-
+* 10/16/2017  - Meeting: Attended class meeting for online students. Left the call since nobody (except for another student/TA) showed up 
+* 10/23/2017  - Meeting: Attended class meeting for online students. Learned to keep git updated via vommand line
 
 # Location
 
