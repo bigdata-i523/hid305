@@ -22,6 +22,7 @@ paper1:
     type: latex
     url: https://github.com/bigdata-i523/hid305/paper1
 paper2:
+    review: Nov 6 2017
     abstract: >
         Developing city planning and zoning policies has a large impact on natural
         resources management and socio economic indicators. To make informed decisions,
