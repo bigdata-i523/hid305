@@ -24,16 +24,14 @@ paper1:
 paper2:
     review: Nov 6 2017
     abstract: >
-        Developing city planning and zoning policies has a large impact on natural
-        resources management and socio economic indicators. To make informed decisions,
-        the local governments require to use important amounts of data to make informed
-        decisions. This paper explores the possibilities for zoning and city planning
-        provided by the new big data technologies
+       In recent history, the explosion of smart devices, social media platforms and the Internet of Things has resulted in major replication of data.  This data is transferred at high speeds, in large volumes and in a variety of different platforms. Data is one of the biggest assets of companies and with the exponential growth of data comes an increasing problem: Security and Privacy. Security and privacy have become a major initiative for every organization that has or utilizes databases.  These organizations need to protect their brands, avoid penalties, and, in worst case scenarios, avoid circumstances in which they may either lose a significant amount of business or their business as a whole. The computer science industry, alongside of these organizations, need to continue to develop ways to protect, utilize, and gain real-time insight from the data that each organization has. This paper is going to highlight security and privacy in Big Data, alongside of specific issues and challenges related to security.
     author:
         - Andres Castro Benavides
+        - Uma Kugan
     hid:
         - 305
-    status: in progress
-    title: Big Data applied to zoning and city planning.
-    type: word
+        - 323
+    status: 100% 
+    title: Big Data Security and Privacy.
+    type: latex
     url: https://github.com/bigdata-i523/sample-hid000/paper2
