@@ -19,7 +19,6 @@ paper1:
         - 319
     status: 100% 11-06-2017
     title: Big Data Analytics for Municipal Waste Management
-    type: latex
     url: https://github.com/bigdata-i523/hid305/paper1
 paper2:
     review: Nov 6 2017
@@ -50,6 +49,5 @@ paper2:
         - 323
     status: 100% 
     title: Big Data Security and Privacy.
-    type: latex
     url: https://github.com/bigdata-i523/sample-hid000/paper2
     chapter: Security
